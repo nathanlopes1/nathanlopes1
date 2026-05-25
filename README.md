@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Nathan Lopes
 
-*Desenvolvedor Back-end*
+**`Desenvolvedor Back-end`**
 
 Me chamo Nathan Lopes, tenho 20 anos e sou natural de Sertânia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na AESA."
 

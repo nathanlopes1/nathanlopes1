@@ -1,12 +1,29 @@
-## Olá! Eu sou o Nathan Lopes
+# 👨🏻‍💻 Nathan Lopes
 
-- 🔭 2° Periodo em Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando MySQL
-- 😄 Pronouns: ele/dele
+*Desenvolvedor Back-end*
 
-- <div>
-  <a href="https://github.com/nathanlopes1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathanlopes1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanlopes1&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
+Me chamo Nathan Lopes, tenho 20 anos e sou natural de Sertânia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na AESA."
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<br/>
+<br/>
